@@ -5,5 +5,5 @@ Cláusulas desenvolvidas para utilização como exemplos no dia a dia, utilizand
 Abaixo os arquivos separados pela(s) pasta(s).
 
 ####Base de Conhecimento
-	* **Exemplo de SELECT.sql**
-	* **Exemplo de SELECT com WHERE.sql**
+	* **Exemplo de SELECT.sql**: Exemplo de consulta simples
+	* **Exemplo de SELECT com WHERE.sql**: Exemplo de consulta com utilização de filtros
